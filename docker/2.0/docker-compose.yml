@@ -1,0 +1,4 @@
+pokeman:
+  image: yongjhih/pokemon-go-mitm:2.0
+#  volumes:
+#    - ./app.coffee:/src/example.logTraffic.coffee
