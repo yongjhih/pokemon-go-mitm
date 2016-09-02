@@ -1,0 +1,4 @@
+pokeman:
+  build: .
+  volumes:
+   - ./app.coffee:/src/app.coffee
